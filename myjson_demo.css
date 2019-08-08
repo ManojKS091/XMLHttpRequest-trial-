@@ -1,0 +1,33 @@
+body{
+    font-family:'helvetica neue', helvetica, arial, sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    color:#60477e;
+}
+h1,h2{
+    font-family: 'Faster One',cursive;
+}
+h2{
+    font-size: 35px;
+/*    text-align: center;*/
+}
+header{
+    text-align: center;
+}
+header p{
+    font-size: 25px;
+}
+section{
+    width: 100%;
+}
+section article{
+    float: left;
+/*    border: 1px solid black;*/
+    width: 33.33%;
+}
+section article p{
+    font-size: 20px;
+}
+section article li{
+    font-size: 20px;
+}
